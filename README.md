@@ -4,7 +4,9 @@
 In this repository you will find some designs that were made using OpenSCAD.  
 You can download OpenSCAD from https://openscad.org/  
 ## Content
-* 
+
+- **Tile Grid**  
+Customisable tile grid for tile-laying tabletop games such as Carcassonne, Karak, Isle of Skye, Alhambre and many more...
 
 ## Usage
 Each design in this repository is organized into two distinct folders to ensure ease of navigation and clarity:

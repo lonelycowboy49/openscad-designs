@@ -1,0 +1,15 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "base_h": "1.5",
+            "divider_h": "1.5",
+            "divider_w": "1.5",
+            "insertion_gap": "2",
+            "num_col": "3",
+            "num_lin": "3",
+            "tile_l": "46",
+            "tile_w": "46"
+        }
+    },
+    "fileFormatVersion": "1"
+}
